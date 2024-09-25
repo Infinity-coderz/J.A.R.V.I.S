@@ -1,4 +1,4 @@
-<h1>J.A.R.V.I.S/h1>
+<h1>J.A.R.V.I.S</h1>
 <br/>
 <br/>
 <h2>Get source code:</h2>
@@ -10,7 +10,7 @@
     <br/>
     4: Type:
     
-           git clone https://github.com/Infinity-coderz/Jarvis.git
+           git clone https://github.com/Infinity-coderz/J.A.R.V.I.S.git
            cd Jarvis
            pip install -r requirements.txt
  Customize "main.py" according to your computer
